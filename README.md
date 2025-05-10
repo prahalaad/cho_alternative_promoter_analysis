@@ -1,1 +1,1 @@
-# cho_alternative_promoter_analysis
+# CHO Alternative Promoter Analysis
