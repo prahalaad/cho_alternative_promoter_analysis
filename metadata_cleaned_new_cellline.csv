@@ -1,0 +1,269 @@
+Sample_ID,Media,Cell,Prod,Phase,Batch,Condition
+SRR10572657,CHO-S-SFM II (Gibco),K1,P,G,1,"IgG producing , 72h, Normal temperature (37C)"
+SRR10572658,CHO-S-SFM II (Gibco),K1,P,G,1,"IgG producing , 72h, Normal temperature (37C)"
+SRR10572659,CHO-S-SFM II (Gibco),K1,P,G,1,"IgG producing , 72h, Normal temperature (37C)"
+SRR10572660,CHO-S-SFM II (Gibco),K1,P,G,1,"IgG producing , 72h, Normal temperature (37C)"
+SRR10572661,CHO-S-SFM II (Gibco),K1,P,G,1,"IgG producing , 72h, Reduced temperature (31C)"
+SRR10572662,CHO-S-SFM II (Gibco),K1,P,G,1,"IgG producing , 72h, Reduced temperature (31C)"
+SRR10572663,CHO-S-SFM II (Gibco),K1,P,G,1,"IgG producing , 72h, Reduced temperature (31C)"
+SRR10572664,CHO-S-SFM II (Gibco),K1,P,G,1,"IgG producing , 72h, Reduced temperature (31C)"
+SRR5812570,ExCELL CD-CHO (SAFC),K1 (GS),P,G,9,"IgG producing Subclone HP, Exponential phase"
+SRR5812571,ExCELL CD-CHO (SAFC),K1 (GS),P,G,9,"IgG producing Subclone HP, Exponential phase"
+SRR5812572,ExCELL CD-CHO (SAFC),K1 (GS),P,G,9,"IgG producing Subclone HP, Exponential phase"
+SRR5812573,ExCELL CD-CHO (SAFC),K1 (GS),P,G,9,"IgG producing Subclone HP, Exponential phase"
+SRR5812574,ExCELL CD-CHO (SAFC),K1 (GS),P,G,9,"IgG producing Subclone HP, Exponential phase"
+SRR5812575,ExCELL CD-CHO (SAFC),K1 (GS),P,G,9,"IgG producing Subclone HP, Exponential phase"
+SRR5812576,ExCELL CD-CHO (SAFC),K1 (GS),P,G,9,"IgG producing Subclone LP, Exponential phase"
+SRR5812577,ExCELL CD-CHO (SAFC),K1 (GS),P,G,9,"IgG producing Subclone LP, Exponential phase"
+SRR5812578,ExCELL CD-CHO (SAFC),K1 (GS),P,G,9,"IgG producing Subclone LP, Exponential phase"
+SRR5812579,ExCELL CD-CHO (SAFC),K1 (GS),P,G,9,"IgG producing Subclone LP, Exponential phase"
+SRR5812580,ExCELL CD-CHO (SAFC),K1 (GS),P,G,9,"IgG producing Subclone LP, Exponential phase"
+SRR5812581,ExCELL CD-CHO (SAFC),K1 (GS),P,G,9,"IgG producing Subclone LP, Exponential phase"
+ERR2593198,CD-CHO (Gibco),K1,NP,G,3,24h in cell culture; growth phase
+ERR2593199,CD-CHO (Gibco),K1,NP,G,3,48h in cell culture; growth phase
+ERR2593200,CD-CHO (Gibco),K1,NP,G,3,72h in cell culture; growth phase
+ERR2593201,CD-CHO (Gibco),K1,NP,G,3,96h in cell culture; growth phase
+ERR2593202,CD-CHO (Gibco),K1,NP,S,3,120h in cell culture; stat phase
+ERR2593203,CD-CHO (Gibco),K1,NP,S,3,144h in cell culture; stat phase
+ERR2593204,CD-CHO (Gibco),K1,NP,S,3,168h in cell culture; stat phase
+ERR2593205,CD-CHO (Gibco),K1,NP,D,3,192h in cell culture; stat phase
+ERR2593206,CD-CHO (Gibco),K1,NP,D,3,216h in cell culture; stat phase
+SRR3401745,CDM4CHO (HyClone),K1,NP,G,4,"Non-producing, Exponential phase"
+SRR3401746,CDM4CHO (HyClone),K1,NP,S,4,"Non-producing, Stationary phase"
+SRR3401747,PowerCHO (Lonza),DG44,P,G,4,"IgG producing, Exponential phase"
+SRR3401748,PowerCHO (Lonza),DG44,P,S,4,"IgG producing, Stationary phase"
+SRR3401749,PowerCHO (Lonza),DG44,P,G,4,"IgG producing, Exponential phase"
+SRR3401750,PowerCHO (Lonza),DG44,P,S,4,"IgG producing, Stationary phase"
+SRR3401751,PowerCHO (Lonza),DG44,P,G,4,"IgG producing, Exponential phase; NaBu treatment"
+SRR3401752,PowerCHO (Lonza),DG44,P,G,4,"IgG producing, Exponential phase; NaBu treatment"
+SRR3161757,CD-CHO (Gibco),S,NP,G,6,"Non-producing, 72h in cell culture"
+SRR3161758,CD-CHO (Gibco),S,NP,G,6,"Non-producing, 72h in cell culture"
+SRR3161759,CD-CHO (Gibco),S,NP,G,6,"Non-producing, 72h in cell culture"
+SRR3161760,CD-CHO (Gibco),S,NP,G,6,"Non-producing, 72h in cell culture"
+SRR3161761,CD-CHO (Gibco),S,NP,G,6,"Non-producing, 84h in cell culture"
+SRR3161762,CD-CHO (Gibco),S,NP,G,6,"Non-producing, 84h in cell culture"
+SRR3161763,CD-CHO (Gibco),S,NP,G,6,"Non-producing, 84h in cell culture"
+SRR3161764,CD-CHO (Gibco),S,NP,G,6,"Non-producing, 84h in cell culture"
+SRR3161765,CD-CHO (Gibco),S,NP,G,6,"Non-producing, 96h in cell culture"
+SRR3161766,CD-CHO (Gibco),S,NP,G,6,"Non-producing, 96h in cell culture"
+SRR3161767,CD-CHO (Gibco),S,NP,G,6,"Non-producing, 96h in cell culture"
+SRR3161768,CD-CHO (Gibco),S,NP,G,6,"Non-producing, 96h in cell culture"
+SRR3161769,CD-CHO (Gibco),S,NP,ND,6,"Non-producing, 108h in cell culture"
+SRR3161770,CD-CHO (Gibco),S,NP,ND,6,"Non-producing, 108h in cell culture"
+SRR3161771,CD-CHO (Gibco),S,NP,ND,6,"Non-producing, 108h in cell culture"
+SRR3161772,CD-CHO (Gibco),S,NP,ND,6,"Non-producing, 108h in cell culture"
+SRR3161773,CD-CHO (Gibco),S,NP,ND,6,"Non-producing, 120h in cell culture"
+SRR3161774,CD-CHO (Gibco),S,NP,ND,6,"Non-producing, 120h in cell culture"
+SRR3161775,CD-CHO (Gibco),S,NP,ND,6,"Non-producing, 120h in cell culture"
+SRR3161776,CD-CHO (Gibco),S,NP,ND,6,"Non-producing, 120h in cell culture"
+SRR3161777,CD-CHO (Gibco),S,NP,S,6,"Non-producing, 132h in cell culture"
+SRR3161778,CD-CHO (Gibco),S,NP,S,6,"Non-producing, 132h in cell culture"
+SRR3161779,CD-CHO (Gibco),S,NP,S,6,"Non-producing, 132h in cell culture"
+SRR3161780,CD-CHO (Gibco),S,NP,S,6,"Non-producing, 132h in cell culture"
+SRR3161781,CD-CHO (Gibco),S,NP,S,6,"Non-producing, 144h in cell culture"
+SRR3161782,CD-CHO (Gibco),S,NP,S,6,"Non-producing, 144h in cell culture"
+SRR3161783,CD-CHO (Gibco),S,NP,S,6,"Non-producing, 144h in cell culture"
+SRR3161784,CD-CHO (Gibco),S,NP,S,6,"Non-producing, 144h in cell culture"
+SRR3161785,CD-CHO (Gibco),S,NP,S,6,"Non-producing, 156h in cell culture"
+SRR3161786,CD-CHO (Gibco),S,NP,S,6,"Non-producing, 156h in cell culture"
+SRR3161787,CD-CHO (Gibco),S,NP,S,6,"Non-producing, 156h in cell culture"
+SRR3161788,CD-CHO (Gibco),S,NP,S,6,"Non-producing, 156h in cell culture"
+SRR3161789,CD-CHO (Gibco),S,NP,D,6,"Non-producing, 168h in cell culture"
+SRR3161790,CD-CHO (Gibco),S,NP,D,6,"Non-producing, 168h in cell culture"
+SRR3161791,CD-CHO (Gibco),S,NP,D,6,"Non-producing, 168h in cell culture"
+SRR3161792,CD-CHO (Gibco),S,NP,D,6,"Non-producing, 168h in cell culture"
+SRR3161793,CD-CHO (Gibco),S,NP,D,6,"Non-producing, 180h in cell culture"
+SRR3161794,CD-CHO (Gibco),S,NP,D,6,"Non-producing, 180h in cell culture"
+SRR3161795,CD-CHO (Gibco),S,NP,D,6,"Non-producing, 180h in cell culture"
+SRR3161796,CD-CHO (Gibco),S,NP,D,6,"Non-producing, 180h in cell culture"
+ERR3374020,CD-CHO (Gibco),K1,NP,G,10,48h in cell culture; 24h before TS
+ERR3374021,CD-CHO (Gibco),K1,NP,G,10,48h in cell culture; 24h before TS
+ERR3374022,CD-CHO (Gibco),K1,NP,G,10,68h in cell culture; 4h before TS
+ERR3374023,CD-CHO (Gibco),K1,NP,G,10,68h in cell culture; 4h before TS
+ERR3374024,CD-CHO (Gibco),K1,NP,G,10,76h in cell culture; 4h after TS
+ERR3374025,CD-CHO (Gibco),K1,NP,G,10,76h in cell culture; 4h after TS
+ERR3374026,CD-CHO (Gibco),K1,NP,S,10,96h in cell culture; 24h after TS
+ERR3374027,CD-CHO (Gibco),K1,NP,S,10,96h in cell culture; 24h after TS
+ERR3374028,CD-CHO (Gibco),K1,NP,S,10,144h in cell culture; 72h after TS
+ERR3374029,CD-CHO (Gibco),K1,NP,S,10,144h in cell culture; 72h after TS
+SRR10995631,CD-CHO (Gibco),S,P,G,2,IgG (Rituximab) producing Day 4
+SRR10995635,CD-CHO (Gibco),S,P,G,2,IgG (Rituximab) producing Day 6
+SRR10995639,CD-CHO (Gibco),S,P,S,2,IgG (Rituximab) producing Day 8
+SRR10995643,CD-CHO (Gibco),S,P,G,2,IgG (Rituximab) producing Day 4
+SRR10995647,CD-CHO (Gibco),S,P,G,2,IgG (Rituximab) producing Day 6
+SRR10995651,CD-CHO (Gibco),S,P,S,2,IgG (Rituximab) producing Day 8
+SRR10995655,CD-CHO (Gibco),S,P,G,2,Secretory engineered IgG (Rituximab) producing Day 4 (6X)
+SRR10995659,CD-CHO (Gibco),S,P,G,2,Secretory engineered IgG (Rituximab) producing Day 6 (6X)
+SRR10995663,CD-CHO (Gibco),S,P,S,2,Secretory engineered IgG (Rituximab) producing Day 8 (6X)
+SRR10995667,CD-CHO (Gibco),S,P,G,2,Secretory engineered IgG (Rituximab) producing Day 4 (6X)
+SRR10995671,CD-CHO (Gibco),S,P,G,2,Secretory engineered IgG (Rituximab) producing Day 6 (6X)
+SRR10995675,CD-CHO (Gibco),S,P,S,2,Secretory engineered IgG (Rituximab) producing Day 8 (6X)
+SRR10995679,CD-CHO (Gibco),S,P,G,2,Secretory engineered IgG (Rituximab) producing Day 4 (11X)
+SRR10995683,CD-CHO (Gibco),S,P,G,2,Secretory engineered IgG (Rituximab) producing Day 6 (11X)
+SRR10995687,CD-CHO (Gibco),S,P,S,2,Secretory engineered IgG (Rituximab) producing Day 8 (11X)
+SRR10995691,CD-CHO (Gibco),S,P,G,2,Secretory engineered IgG (Rituximab) producing Day 4 (11X)
+SRR10995695,CD-CHO (Gibco),S,P,G,2,Secretory engineered IgG (Rituximab) producing Day 6 (11X)
+SRR10995699,CD-CHO (Gibco),S,P,S,2,Secretory engineered IgG (Rituximab) producing Day 8 (11X)
+SRR10493847,PowerCHO (Lonza),DG44,P,G,8,Non-producer Day 4 Rep1 (3478)
+SRR10493848,PowerCHO (Lonza),DG44,P,G,8,Non-producer Day 4 Rep2 (3478)
+SRR10493849,PowerCHO (Lonza),DG44,P,S,8,IgG producing Day 4 Rep1 (3068)
+SRR10493850,PowerCHO (Lonza),DG44,P,S,8,IgG producing Day 4 Rep2 (3068)
+SRR10493851,PowerCHO (Lonza),DG44,P,S,8,IgG producing Day 4 Rep1 (3077)
+SRR10493855,PowerCHO (Lonza),DG44,P,G,8,IgG producing Day 4 Rep2 (3077)
+SRR10493856,PowerCHO (Lonza),DG44,P,G,8,IgG producing Day 4 Rep1 (3080)
+SRR10493858,PowerCHO (Lonza),DG44,P,S,8,IgG producing Day 4 Rep2 (3080)
+SRR10493859,PowerCHO (Lonza),DG44,P,S,8,Non-producer Day 7 Rep1 (3478)
+SRR10493860,PowerCHO (Lonza),DG44,P,S,8,Non-producer Day 7 Rep2 (3478)
+SRR10493864,PowerCHO (Lonza),DG44,P,G,8,IgG producing Day 7 Rep1 (3068)
+SRR10493865,PowerCHO (Lonza),DG44,P,G,8,IgG producing Day 7 Rep1 (3077)
+SRR10493866,PowerCHO (Lonza),DG44,P,G,8,IgG producing Day 7 Rep2 (3077)
+SRR10493867,PowerCHO (Lonza),DG44,P,S,8,IgG producing Day 7 Rep1 (3080)
+SRR10493868,PowerCHO (Lonza),DG44,P,S,8,IgG producing Day 7 Rep2 (3080)
+SRR10493869,PowerCHO (Lonza),DG44,P,S,8,IgG producing Day 4 Rep2 (3068)
+SRR10493873,PowerCHO (Lonza),DG44,P,G,8,IgG producing Day 4 Rep3 (3068)
+SRR10493874,PowerCHO (Lonza),DG44,P,G,8,IgG producing Day 7 Rep1 (3068)
+SRR10493875,PowerCHO (Lonza),DG44,P,G,8,IgG producing Day 7 Rep2 (3068)
+SRR10493876,PowerCHO (Lonza),DG44,P,S,8,IgG producing Day 7 Rep3 (3068)
+SRR10493877,PowerCHO (Lonza),DG44,P,S,8,IgG producing Day 4 Rep1 (3080)
+SRR10493878,PowerCHO (Lonza),DG44,P,S,8,IgG producing Day 4 Rep2 (3080)
+SRR10493804,PowerCHO (Lonza),DG44,NP,G,7,IgG producing Day 7 Rep1 (3080)
+SRR10493805,PowerCHO (Lonza),DG44,NP,G,7,IgG producing Day 7 Rep2 (3080)
+SRR10493806,PowerCHO (Lonza),DG44,P,G,7,IgG producing Day 7 Rep3 (3080)
+SRR10493807,PowerCHO (Lonza),DG44,P,G,7,IgG producing Day 4 Rep1 (3936)
+SRR10493808,PowerCHO (Lonza),DG44,P,G,7,IgG producing Day 4 Rep2 (3936)
+SRR10493809,PowerCHO (Lonza),DG44,P,G,7,IgG producing Day 4 Rep3 (3936)
+SRR10493810,PowerCHO (Lonza),DG44,P,G,7,IgG producing Day 7 Rep1 (3936)
+SRR10493811,PowerCHO (Lonza),DG44,P,S,7,IgG producing Day 7 Rep2 (3936)
+SRR10493812,PowerCHO (Lonza),DG44,NP,S,7,IgG producing Day 7 Rep3 (3936)
+SRR10493813,PowerCHO (Lonza),DG44,NP,S,7,IgG producing Day 4 Rep1 (4384)
+SRR10493814,PowerCHO (Lonza),DG44,P,S,7,IgG producing Day 4 Rep2 (4384)
+SRR10493816,PowerCHO (Lonza),DG44,P,S,7,IgG producing Day 4 Rep3 (4384)
+SRR10493817,PowerCHO (Lonza),DG44,P,S,7,IgG producing Day 7 Rep1 (4384)
+SRR10493818,PowerCHO (Lonza),DG44,P,S,7,IgG producing Day 7 Rep2 (4384)
+SRR10493819,PowerCHO (Lonza),DG44,P,S,7,IgG producing Day 7 Rep3 (4384)
+SRR5358888,CD-CHO (Gibco) + PF-CHO (HyClone),K1,P,G,11,IgG producer; exp phase
+SRR5358890,CD-CHO (Gibco) + PF-CHO (HyClone),K1,NP,G,11,Non-producer; exp phase
+ERR4319912,CDFortiCHO (Gibco),K1 (GS),NP,G,14,Non-producer (C1835A)
+ERR4319913,CDFortiCHO (Gibco),K1 (GS),NP,G,14,Non-producer (C1835A)
+ERR4319914,CDFortiCHO (Gibco),K1 (GS),NP,G,14,Non-producer (C1835A)
+ERR4319915,CDFortiCHO (Gibco),K1 (GS),NP,G,14,Non-producer (C3234A)
+ERR4319916,CDFortiCHO (Gibco),K1 (GS),NP,G,14,Non-producer (C3234A)
+ERR4319917,CDFortiCHO (Gibco),K1 (GS),NP,G,14,Non-producer (C3234A)
+ERR4319918,CDFortiCHO (Gibco),K1 (GS),NP,G,14,Non-producer (PE24)
+ERR4319919,CDFortiCHO (Gibco),K1 (GS),NP,G,14,Non-producer (PE24)
+ERR4319920,CDFortiCHO (Gibco),K1 (GS),NP,G,14,Non-producer (PE24)
+ERR4319921,CDFortiCHO (Gibco),K1 (GS),P,G,14,Low Stable IgG (G9)
+ERR4319922,CDFortiCHO (Gibco),K1 (GS),P,G,14,Low Stable IgG (G9)
+ERR4319923,CDFortiCHO (Gibco),K1 (GS),P,G,14,Low Stable IgG (G9)
+ERR4319924,CDFortiCHO (Gibco),K1 (GS),P,G,14,Low Unstable IgG (5G10)
+ERR4319925,CDFortiCHO (Gibco),K1 (GS),P,G,14,Low Unstable IgG (5G10)
+ERR4319926,CDFortiCHO (Gibco),K1 (GS),P,G,14,Low Unstable IgG (5G10)
+ERR4319927,CDFortiCHO (Gibco),K1 (GS),P,G,14,Medium Stable IgG (E3)
+ERR4319928,CDFortiCHO (Gibco),K1 (GS),P,G,14,Medium Stable IgG (E3)
+ERR4319929,CDFortiCHO (Gibco),K1 (GS),P,G,14,Medium Stable IgG (E3)
+ERR4319930,CDFortiCHO (Gibco),K1 (GS),P,G,14,Medium Unstable IgG (1C11)
+ERR4319931,CDFortiCHO (Gibco),K1 (GS),P,G,14,Medium Unstable IgG (1C11)
+ERR4319932,CDFortiCHO (Gibco),K1 (GS),P,G,14,Medium Unstable IgG (1C11)
+ERR4319933,CDFortiCHO (Gibco),K1 (GS),P,G,14,High Stable IgG (6A6)
+ERR4319934,CDFortiCHO (Gibco),K1 (GS),P,G,14,High Stable IgG (6A6)
+ERR4319935,CDFortiCHO (Gibco),K1 (GS),P,G,14,High Stable IgG (6A6)
+ERR4319936,CDFortiCHO (Gibco),K1 (GS),P,G,14,High Unstable IgG (6H1)
+ERR4319937,CDFortiCHO (Gibco),K1 (GS),P,G,14,High Unstable IgG (6H1)
+ERR4319938,CDFortiCHO (Gibco),K1 (GS),P,G,14,High Unstable IgG (6H1)
+SRR18163655,G13 medium,K1,P,D,15,IgG1 producer; Clone 2; medium 1; day 14
+SRR18163656,G13 medium,K1,P,S,15,IgG1 producer; Clone 2; medium 1; day 11
+SRR18163657,G13 medium,K1,P,S,15,IgG1 producer; Clone 2; medium 1; day 9
+SRR18163658,G13 medium,K1,P,G,15,IgG1 producer; Clone 2; medium 1; day 7
+SRR18163659,G13 medium,K1,P,G,15,IgG1 producer; Clone 2; medium 1; day 4
+SRR18163660,DA1 medium,K1,P,D,15,IgG1 producer; Clone 1; medium 2; day 14
+SRR18163661,DA1 medium,K1,P,S,15,IgG1 producer; Clone 1; medium 2; day 11
+SRR18163662,DA1 medium,K1,P,S,15,IgG1 producer; Clone 1; medium 2; day 9
+SRR18163663,DA1 medium,K1,P,G,15,IgG1 producer; Clone 1; medium 2; day 7
+SRR18163664,DA1 medium,K1,P,G,15,IgG1 producer; Clone 1; medium 2; day 4
+SRR18163665,G13 medium,K1,P,D,15,IgG1 producer; Clone 1; medium 1; day 14
+SRR18163666,G13 medium,K1,P,S,15,IgG1 producer; Clone 1; medium 1; day 11
+SRR18163667,G13 medium,K1,P,S,15,IgG1 producer; Clone 1; medium 1; day 9
+SRR18163668,G13 medium,K1,P,G,15,IgG1 producer; Clone 1; medium 1; day 7
+SRR18163669,G13 medium,K1,P,G,15,IgG1 producer; Clone 1; medium 1; day 4
+ERR4184070,CD-CHO (Gibco),DXB11,P,G,16,EPO-Fc producer; Stable; LP Replicate 1
+ERR4184071,CD-CHO (Gibco),DXB11,P,G,16,EPO-Fc producer; Stable; MP Replicate 1
+ERR4184072,CD-CHO (Gibco),DXB11,P,G,16,EPO-Fc producer; Stable; MP Replicate 2
+ERR4184073,CD-CHO (Gibco),DXB11,P,G,16,EPO-Fc producer; Decreased qP; medium Replicate 1
+ERR4184074,CD-CHO (Gibco),DXB11,P,G,16,EPO-Fc producer; Decreased qP; medium Replicate 2
+ERR4184075,CD-CHO (Gibco),DXB11,P,G,16,EPO-Fc producer; Stable; LMP Replicate 1
+ERR4184076,CD-CHO (Gibco),DXB11,P,G,16,EPO-Fc producer; Stable; HP Replicate 1
+ERR4184077,CD-CHO (Gibco),DXB11,P,G,16,EPO-Fc producer; Increased qP; high Replicate 1
+ERR4184078,CD-CHO (Gibco),DXB11,P,G,16,EPO-Fc producer; subclone Parent Replicate 1
+ERR4184079,CD-CHO (Gibco),DXB11,P,G,16,EPO-Fc producer; subclone Parent Replicate 2
+ERR4184080,CD-CHO (Gibco),DXB11,P,G,16,EPO-Fc producer; Stable; LP Replicate 2
+ERR4184081,CD-CHO (Gibco),DXB11,P,G,16,EPO-Fc producer; Stable; LMP Replicate 2
+ERR4184082,CD-CHO (Gibco),DXB11,P,G,16,EPO-Fc producer; Stable; HP Replicate 2
+ERR4184083,CD-CHO (Gibco),DXB11,P,G,16,EPO-Fc producer; Increased qP; high Replicate 2
+SRR16796943,CHO-S-SFM II (Gibco),K1,P,G,17,IgG producer; Temerature shifted replicate 2
+SRR16796944,CHO-S-SFM II (Gibco),K1,P,G,17,IgG producer; Temerature shifted replicate 3
+SRR16796945,CHO-S-SFM II (Gibco),K1,P,G,17,IgG producer; Non-temerature shifted replicate 4
+SRR16796946,CHO-S-SFM II (Gibco),K1,P,G,17,IgG producer; Temerature shifted replicate 4
+SRR16796949,CHO-S-SFM II (Gibco),K1,P,G,17,IgG producer; Non-temerature shifted replicate 1
+SRR16796960,CHO-S-SFM II (Gibco),K1,P,G,17,IgG producer; Temerature shifted replicate 1
+SRR16796971,CHO-S-SFM II (Gibco),K1,P,G,17,IgG producer; Non-temerature shifted replicate 2
+SRR16796972,CHO-S-SFM II (Gibco),K1,P,G,17,IgG producer; Non-temerature shifted replicate 3
+SRR5409489,80%DMEM+10%serum+20%CD-CHO,DXB11,P,G,19,IgG1 producer; Low Glucose Rep2
+SRR5409490,80%DMEM+10%serum+20%CD-CHO,DXB11,P,G,19,IgG1 producer; Low Glucose Rep1
+SRR5409491,80%DMEM+10%serum+20%CD-CHO,DXB11,P,G,19,IgG1 producer; High Glucose Rep2
+SRR5409492,80%DMEM+10%serum+20%CD-CHO,DXB11,P,G,19,IgG1 producer; High Glucose Rep1
+SRR11184908,ActiPro (Gibco),K1,P,G,22,"IgG producer (VRC01)treatment group (10mM NH3 addition), day 6"
+SRR11184909,ActiPro (Gibco),K1,P,G,22,"IgG producer (VRC01)treatment group (10mM NH3 addition), day 6"
+SRR11184910,ActiPro (Gibco),K1,P,G,22,"IgG producer (VRC01)control group (0mM NH3 addition), day 6"
+SRR11184911,ActiPro (Gibco),K1,P,G,22,"IgG producer (VRC01)control group (0mM NH3 addition), day 6"
+SRR11184912,ActiPro (Gibco),K1,P,G,22,"IgG producer (VRC01)treatment group (10mM NH3 addition), day 3"
+SRR11184913,ActiPro (Gibco),K1,P,G,22,"IgG producer (VRC01)treatment group (10mM NH3 addition), day 3"
+SRR11184914,ActiPro (Gibco),K1,P,G,22,"IgG producer (VRC01)control group (0mM NH3 addition), day 3"
+SRR11184915,ActiPro (Gibco),K1,P,S,22,"IgG producer (VRC01)treatment group (10mM NH3 addition), day 9"
+SRR11184916,ActiPro (Gibco),K1,P,S,22,"IgG producer (VRC01)treatment group (10mM NH3 addition), day 9"
+SRR11184917,ActiPro (Gibco),K1,P,G,22,"IgG producer (VRC01)control group (0mM NH3 addition), day 3"
+SRR11184918,ActiPro (Gibco),K1,P,S,22,"IgG producer (VRC01)control group (0mM NH3 addition), day 9"
+SRR11184919,ActiPro (Gibco),K1,P,S,22,"IgG producer (VRC01)control group (0mM NH3 addition), day 9"
+SRR11184920,ActiPro (Gibco),K1,P,L,22,"IgG producer (VRC01)control group (0mM NH3 addition), day 0"
+SRR11184921,ActiPro (Gibco),K1,P,L,22,"IgG producer (VRC01)control group (0mM NH3 addition), day 0"
+SRR19256295,NM,S,P,G,21,"IgG producer, rep 3"
+SRR19256296,NM,S,P,G,21,"IgG producer, rep 1"
+SRR19256297,NM,S,NP,G,21,"Non-producer, rep 3"
+SRR19256304,NM,S,P,G,21,"IgG producer, rep 2"
+SRR19256305,NM,S,NP,G,21,"Non-producer, rep 2"
+SRR19256306,NM,S,NP,G,21,"Non-producer, rep 1"
+SRR22246869,ExCELL CD-CHO (SAFC),K1 (GS),P,G,20,IgG1 producer; day5
+SRR22246870,ExCELL CD-CHO (SAFC),K1 (GS),P,G,20,IgG1 producer; day5
+SRR22246871,ExCELL CD-CHO (SAFC),K1 (GS),P,G,20,IgG1 producer; day5
+SRR22246872,ExCELL CD-CHO (SAFC),K1 (GS),NP,G,20,Non-producer; day5
+SRR22246873,ExCELL CD-CHO (SAFC),K1 (GS),NP,G,20,Non-producer; day6
+SRR22246874,ExCELL CD-CHO (SAFC),K1 (GS),NP,G,20,Non-producer; day7
+SRR22246875,ExCELL CD-CHO (SAFC),K1 (GS),P,G,20,EPO-Fc producer; day3
+SRR22246876,ExCELL CD-CHO (SAFC),K1 (GS),P,G,20,EPO-Fc producer; day3
+SRR22246877,ExCELL CD-CHO (SAFC),K1 (GS),P,G,20,EPO-Fc producer; day3
+SRR22246878,ExCELL CD-CHO (SAFC),K1 (GS),P,G,20,IgG1 producer; day3
+SRR22246879,ExCELL CD-CHO (SAFC),K1 (GS),P,G,20,IgG1 producer; day3
+SRR22246880,ExCELL CD-CHO (SAFC),K1 (GS),P,G,20,IgG1 producer; day3
+SRR22246881,ExCELL CD-CHO (SAFC),K1 (GS),NP,G,20,Non-producer; day3
+SRR22246882,ExCELL CD-CHO (SAFC),K1 (GS),NP,G,20,Non-producer; day4
+SRR22246883,ExCELL CD-CHO (SAFC),K1 (GS),NP,G,20,Non-producer; day5
+SRR22246884,ExCELL CD-CHO (SAFC),K1 (GS),P,G,20,EPO-Fc producer; day1
+SRR22246885,ExCELL CD-CHO (SAFC),K1 (GS),P,G,20,EPO-Fc producer; day1
+SRR22246886,ExCELL CD-CHO (SAFC),K1 (GS),P,G,20,EPO-Fc producer; day1
+SRR22246887,ExCELL CD-CHO (SAFC),K1 (GS),P,G,20,IgG1 producer; day1
+SRR22246888,ExCELL CD-CHO (SAFC),K1 (GS),P,G,20,IgG1 producer; day1
+SRR22246889,ExCELL CD-CHO (SAFC),K1 (GS),P,G,20,IgG1 producer; day1
+SRR22246890,ExCELL CD-CHO (SAFC),K1 (GS),NP,L,20,Non-producer; day1
+SRR22246891,ExCELL CD-CHO (SAFC),K1 (GS),NP,L,20,Non-producer; day2
+SRR22246892,ExCELL CD-CHO (SAFC),K1 (GS),NP,L,20,Non-producer; day3
+SRR22246893,ExCELL CD-CHO (SAFC),K1 (GS),P,G,20,EPO-Fc producer; day5
+SRR22246894,ExCELL CD-CHO (SAFC),K1 (GS),P,G,20,EPO-Fc producer; day5
+SRR22246895,ExCELL CD-CHO (SAFC),K1 (GS),P,G,20,EPO-Fc producer; day5
+SRR22246896,ExCELL CD-CHO (SAFC),K1 (GS),P,L,20,EPO-Fc producer; day0
+SRR22246897,ExCELL CD-CHO (SAFC),K1 (GS),P,L,20,EPO-Fc producer; day0
+SRR22246898,ExCELL CD-CHO (SAFC),K1 (GS),P,L,20,EPO-Fc producer; day0
+SRR22246899,ExCELL CD-CHO (SAFC),K1 (GS),P,L,20,IgG1 producer; day0
+SRR22246900,ExCELL CD-CHO (SAFC),K1 (GS),P,L,20,IgG1 producer; day0
+SRR22246901,ExCELL CD-CHO (SAFC),K1 (GS),P,L,20,IgG1 producer; day0
+SRR22246902,ExCELL CD-CHO (SAFC),K1 (GS),NP,L,20,Non-producer; day0
+SRR22246903,ExCELL CD-CHO (SAFC),K1 (GS),NP,L,20,Non-producer; day1
+SRR22246904,ExCELL CD-CHO (SAFC),K1 (GS),NP,L,20,Non-producer; day2
